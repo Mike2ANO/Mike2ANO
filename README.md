@@ -8,7 +8,7 @@
 ### <p align="center">🧠 &nbsp;Moi</p>
 <br>
 <p align="center">
-  J'ai 14 ans, j'apprends le développement python 🙂
+  J'ai 14 ans, j'apprends le développement web et python 🙂
   <br>
   <a href="https://discord.gg/7r8yf32fZd">💬 Mon serveur Discord💬</a>
   <br>
@@ -19,9 +19,9 @@
 ### <p align="center">🏆 &nbsp;Mes Compétences</p>
 <br>
 <p align="center">
-  🐍 J'apprends le Python depuis 5 mois 🐍
+  🐍 J'apprends le Python depuis 2 mois 🐍
   <br>
-  💠 J'apprends le Développement Web, pour créer mon propre site internet 💠
+  💠 J'apprends le Développement Web 💠
   <br>
   <br>
 </p>
@@ -30,15 +30,15 @@
 ### <p align="center">📈 &nbsp;Mes Objectifs</p>
 <br>
 <p align="center">
-  🐍 Maitrîser le Python 🐍
+  🐍 progresser dans le Python 🐍
   <br>
   💠 progresser le Développement Web (html/css) 💠
   <br>
-  🔐 Progresser en Cybersécurité 🔐
+  🔐 apprendre la Cybersécurité 🔐
   <br>
   🎃 Apprendre le JavaScript 🎃
   <br>
-  🌍 Développer mon propre site Web 🌍
+  🌍 Développer mon aplications 🌍
   <br>
   <br>
 </p>
