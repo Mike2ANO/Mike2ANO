@@ -1,7 +1,7 @@
 -----
 
 <p align = "center">
-<img src="https://media.discordapp.net/attachments/821866971506278420/864113390950285322/mike.png">
+<img src="https://media.discordapp.net/attachments/810945609044328472/867131211733270538/mike.png">
 </p>
 
 -----
