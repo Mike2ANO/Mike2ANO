@@ -59,9 +59,7 @@
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mike2ANO&layout=compact&langs_count=8&theme=react&locale=fr"/>
 </a>
 </p>
-<p align="center">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="Python" height="30" width="40" />
+
 
 -----
 ### <p align="center">⚙️ &nbsp;Mes stat</p>
